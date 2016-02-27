@@ -1,0 +1,24 @@
+_repo: A-First-Year-in-Canterbury-Settlement_3235
+creator:
+  author:
+    agent_name: Butler, Samuel
+    alias: Cellarius
+    birthdate: 1835
+    deathdate: 1902
+    gutenberg_agent_id: '748'
+    url: http://www.gutenberg.org/2009/agents/748
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_(1835-1902)
+description: ''
+gutenberg_issued: '2002-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3235'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canterbury (N.Z.) -- Description and travel'
+- !lcc 'PR'
+title: A First Year in Canterbury Settlement
+url: http://www.gutenberg.org/ebooks/3235
