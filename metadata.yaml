@@ -1,5 +1,5 @@
 _repo: A-First-Year-in-Canterbury-Settlement_3235
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Canterbury (N.Z.) -- Description and travel'
 - !lcc 'PR'
+- GITenberg
 title: A First Year in Canterbury Settlement
 url: http://www.gutenberg.org/ebooks/3235
